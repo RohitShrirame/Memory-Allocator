@@ -1,0 +1,2 @@
+use driver.cpp file to run the program
+Both file Allocator.h & driver.cpp should be in same folder 
